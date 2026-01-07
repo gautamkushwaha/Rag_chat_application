@@ -70,5 +70,4 @@ Frontend UI: http://localhost:8501manufacturing-rag-app/
 └── scripts/               # Utility scripts🔧 Configuration
 Environment Variables
 Create a .env file with:OPENAI_API_KEY=your_openai_api_key_here
-EMBEDDING_MODEL=text-embedding-3-small
-LLM_MODEL=gpt-4o
+EMBEDDING_MODEL=text-embedding-3-smal
